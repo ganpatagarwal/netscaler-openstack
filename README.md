@@ -1,1 +1,1 @@
-# netscaler-openstack
+# netscaler driver for openstack
